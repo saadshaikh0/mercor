@@ -13,7 +13,7 @@ Welcome to Cash App ! This project is a responsive web application built using R
 
 ## Demo
 
-[Provide a link to a live demo of your app, if available.
+[Demo Link
 ](https://mercor-chi.vercel.app/)
 ## Installation
 
