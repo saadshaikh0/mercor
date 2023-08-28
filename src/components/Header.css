@@ -1,0 +1,17 @@
+.header {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .eye {
+    display: none;
+  }
+  .header {
+    justify-content: space-between;
+  }
+}
